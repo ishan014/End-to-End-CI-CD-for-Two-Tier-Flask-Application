@@ -65,7 +65,7 @@ This document outlines the step-by-step process for deploying a 2-tier web appli
     * Select the **t2.micro** instance type for free-tier eligibility.
     * Create and assign a new key pair for SSH access.
 
-<img src="01.png">
+
 
 2.  **Configure Security Group:**
     * Create a security group with the following inbound rules:
